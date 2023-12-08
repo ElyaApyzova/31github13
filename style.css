@@ -48,6 +48,7 @@ input {
   border: 2px solid #b99470;
   border-radius: 5px;
   width: 100%;
+  font-size: 16px;
 }
 
 .btn-container {
